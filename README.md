@@ -1,1 +1,3 @@
 # CS-320-11036-M1
+
+To ensure that my code, program, or software is functional and secure, I will always be sure to run proper tests. It is also important to stay as unbiased towards your code and do everything to find holes or mistakes. Interpretting user needs means translating them into system requirements. From there, the code developed and tested should succeed for the user needs. It is important to keep in mind the best program, language, and platform to use in order to meet your customer's goals. When designing software, it is crucial to design around the user requirements and keep security and functionality in mind. 
